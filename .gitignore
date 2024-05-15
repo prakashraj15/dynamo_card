@@ -1,4 +1,8 @@
-#ignore all json files
+# Ignore all JSON files
 *.json
-#ignore all key files 
+
+# Ignore all key files
 *.key
+
+# Ignore enduring-honor-422922-k7-b8d091cb2c30.json
+enduring-honor-422922-k7-b8d091cb2c30.json
