@@ -100,7 +100,7 @@ class YoutubeProcessor:
                 {text}
                 
                 Respond in the following format as a JSON object without any backticks separating each concept 
-                with a comma and dont give any whitespace:
+                with a comma and dont give any whitespace and dont use ```json while giving output
                 {{"concept": "definition", "concept": "definition", "concept": "definition",...}}
                 """,
                 input_variables=["text"]
